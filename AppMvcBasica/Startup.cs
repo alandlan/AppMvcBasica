@@ -15,7 +15,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 
 namespace AppMvcBasica
-{
+{ 
     public class Startup
     {
         public Startup(IConfiguration configuration)
