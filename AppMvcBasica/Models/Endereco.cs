@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace AppMvcBasica.Models
 {
-    public class Endereco
+    public class Endereco : Entity
     {
     }
 }
