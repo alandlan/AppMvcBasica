@@ -32,3 +32,9 @@ D:\Desenvolvedor_io\AppMvcBasica\AppMvcBasica\obj\Debug\netcoreapp2.2\AppMvcBasi
 D:\Desenvolvedor_io\AppMvcBasica\AppMvcBasica\obj\Debug\netcoreapp2.2\AppMvcBasica.pdb
 D:\Desenvolvedor_io\AppMvcBasica\AppMvcBasica\obj\Debug\netcoreapp2.2\AppMvcBasica.csproj.CopyComplete
 D:\Desenvolvedor_io\AppMvcBasica\AppMvcBasica\obj\Debug\netcoreapp2.2\AppMvcBasica.csprojAssemblyReference.cache
+D:\Desenvolvedor_io\AppMvcBasica\AppMvcBasica\obj\Debug\netcoreapp2.2\Razor\Views\Fornecedores\Create.cshtml.g.cs
+D:\Desenvolvedor_io\AppMvcBasica\AppMvcBasica\obj\Debug\netcoreapp2.2\Razor\Views\Fornecedores\Delete.cshtml.g.cs
+D:\Desenvolvedor_io\AppMvcBasica\AppMvcBasica\obj\Debug\netcoreapp2.2\Razor\Views\Fornecedores\Details.cshtml.g.cs
+D:\Desenvolvedor_io\AppMvcBasica\AppMvcBasica\obj\Debug\netcoreapp2.2\Razor\Views\Fornecedores\Edit.cshtml.g.cs
+D:\Desenvolvedor_io\AppMvcBasica\AppMvcBasica\obj\Debug\netcoreapp2.2\Razor\Views\Fornecedores\Index.cshtml.g.cs
+D:\Desenvolvedor_io\AppMvcBasica\AppMvcBasica\obj\Debug\netcoreapp2.2\Razor\Views\Fornecedores\_Endereco.cshtml.g.cs
