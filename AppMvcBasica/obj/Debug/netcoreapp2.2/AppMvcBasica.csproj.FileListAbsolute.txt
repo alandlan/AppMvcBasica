@@ -31,3 +31,4 @@ D:\Desenvolvedor_io\AppMvcBasica\AppMvcBasica\obj\Debug\netcoreapp2.2\AppMvcBasi
 D:\Desenvolvedor_io\AppMvcBasica\AppMvcBasica\obj\Debug\netcoreapp2.2\AppMvcBasica.dll
 D:\Desenvolvedor_io\AppMvcBasica\AppMvcBasica\obj\Debug\netcoreapp2.2\AppMvcBasica.pdb
 D:\Desenvolvedor_io\AppMvcBasica\AppMvcBasica\obj\Debug\netcoreapp2.2\AppMvcBasica.csproj.CopyComplete
+D:\Desenvolvedor_io\AppMvcBasica\AppMvcBasica\obj\Debug\netcoreapp2.2\AppMvcBasica.csprojAssemblyReference.cache
